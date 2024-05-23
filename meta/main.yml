@@ -1,0 +1,18 @@
+galaxy_info:
+  author: "Sanjay Singh"
+  description: "Ansible role for installing Helm on targeted hosts"
+  license: "BSD"
+  min_ansible_version: "2.13"
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+        - 9
+  galaxy_tags:
+    - helm
+    - helm charts
+    - kubernetes
+    - package_management
+
+dependencies: []

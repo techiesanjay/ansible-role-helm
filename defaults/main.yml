@@ -1,0 +1,10 @@
+---
+# role defaults file for helm
+
+# Check for latest Helm releases at: https://github.com/helm/helm/releases/
+
+helm_version: 'v3.14.0'
+helm_platform: linux
+helm_arch: amd64
+helm_url: "https://get.helm.sh"
+helm_path: /usr/bin/helm
