@@ -24,16 +24,19 @@ Variables with default values that can be overridden as part of role defaults (s
 None.
 
 ## Example Playbook
+
 ```Yaml
     - hosts: all
       roles:
         - helm
-...
+```
+
 ## License
 
 BSD
 
 ## Author
+
 **Sanjay Singh**
 sanjay.kr.singh@gmail.com 
 > Written with [StackEdit](https://stackedit.io/).

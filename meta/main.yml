@@ -1,6 +1,6 @@
 galaxy_info:
   author: "Sanjay Singh"
-  description: "Ansible role for installing Helm on targeted hosts"
+  description: "Ansible role for installing Helm on targeted host"
   license: "BSD"
   min_ansible_version: "2.13"
   platforms:
